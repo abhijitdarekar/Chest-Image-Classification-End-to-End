@@ -11,7 +11,7 @@ PROJECT_NAME = "CNN_Classifier"
 
 listOfFiles=[
     ".github/workflows/.gitkeep",
-    f"src/{PROJECT_NAME}/__init__.py"
+    f"src/{PROJECT_NAME}/__init__.py",
     f"src/{PROJECT_NAME}/components/__init__.py",
     f"src/{PROJECT_NAME}/utils/__init__.py",
     f"src/{PROJECT_NAME}/config/__init__.py",
